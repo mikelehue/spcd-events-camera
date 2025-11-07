@@ -163,15 +163,3 @@ d = np.load("acqui-pics/2025_10_27_01/gn4095_n10_t0p0025_gate_DDG_width5p00e-09_
 imgs = d["images"]  # (N, H, W), uint16
 imgs.mean(), imgs.std()
 ```
-
-## For recruiters
-
-This repository is part of my research on SPDC photon sources.  
-It demonstrates my ability to connect scientific hardware through Python APIs,  
-automate data acquisition, and communicate results clearly through data analysis and visualization.  
-Although this is lab code, it reflects the same skills I apply when bridging technical details  
-and practical outcomes in customer-facing technical roles.
-
-## License
-
-MIT (or your preferred license)
