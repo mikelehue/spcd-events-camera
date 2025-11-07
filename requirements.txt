@@ -1,0 +1,7 @@
+numpy
+matplotlib
+pandas
+scikit-image
+tqdm
+seaborn
+pyAndorSDK3
