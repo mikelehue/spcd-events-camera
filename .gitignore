@@ -1,0 +1,25 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data outputs
+*.npz
+*.csv
+*.png
+/acqui-pics/
+*/acqui-pics/
+
+# Jupyter and VSCode
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.env/
