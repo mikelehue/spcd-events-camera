@@ -41,20 +41,18 @@ scikit-image
 tqdm
 seaborn # optional (used by some plots)
 
-go
-Copiar código
 - Camera SDK: `pyAndorSDK3` (install according to your lab environment).
 
 Quick install:
 ```bash
 pip install numpy matplotlib pandas scikit-image tqdm seaborn
+```
+
 1) Data capture
 1.1 Quick test (single frame)
 snapshot_single_acq.py connects, configures a full-frame AOI (2160×2560),
 takes one acquisition, and displays it.
 
-bash
-Copiar código
 python snapshot_single_acq.py
 It:
 
