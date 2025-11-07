@@ -2,7 +2,7 @@
 
 This part of the project shows how to **control scientific hardware through Python APIs**.
 
-## What this demonstrates (for recruiters)
+## What this demonstrates
 - Integration with a **real instrument SDK** (Andor iStar camera).
 - Ability to define **repeatable acquisition protocols**.
 - Logging of **metadata** (exposure, gain, gating, timestamps, run IDs).
