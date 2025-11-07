@@ -10,9 +10,9 @@ This part of the project shows how to **control scientific hardware through Pyth
 
 ## Planned structure
 
-istar_setup.py # initialize camera, apply parameters safely
-snapshot_batch.py # take repeated frames + metadata to disk
-settings.json # example config with documented parameters
+- istar_setup.py # initialize camera, apply parameters safely
+- snapshot_batch.py # take repeated frames + metadata to disk
+- settings.json # example config with documented parameters
 
 ## Example usage (planned)
 ```bash
